@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ZC&#39;s Hugo Exercise Site</title>
-    <link>http://example.org/posts/</link>
+    <link>https://zhichaochen1984.github.io/tjamie/posts/</link>
     <description>Recent content in Posts on ZC&#39;s Hugo Exercise Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 May 2022 09:50:04 -0400</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 May 2022 09:50:04 -0400</lastBuildDate><atom:link href="https://zhichaochen1984.github.io/tjamie/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This is a first test page</title>
-      <link>http://example.org/posts/post1/</link>
+      <link>https://zhichaochen1984.github.io/tjamie/posts/post1/</link>
       <pubDate>Thu, 26 May 2022 09:50:04 -0400</pubDate>
       
-      <guid>http://example.org/posts/post1/</guid>
+      <guid>https://zhichaochen1984.github.io/tjamie/posts/post1/</guid>
       <description>I&amp;rsquo;m wondering what is this character used for &amp;ldquo;#&amp;rdquo; And frankly speaking, it looks hugo is able to detect the correct marker for certain contents. Like if I tried to use Book Name. will it do what I suppose it will do?
 But what about underline, or bold characters, or video and images?
 This is kind of cool I can just type whatever I want, but I feel it is way more than this.</description>
@@ -20,10 +20,10 @@ This is kind of cool I can just type whatever I want, but I feel it is way more 
     
     <item>
       <title>ZC&#39;s Hugo exercise1</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://zhichaochen1984.github.io/tjamie/posts/my-first-post/</link>
       <pubDate>Wed, 25 May 2022 16:14:33 -0400</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://zhichaochen1984.github.io/tjamie/posts/my-first-post/</guid>
       <description></description>
     </item>
     
